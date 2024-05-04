@@ -191,6 +191,11 @@ st.markdown("""
             align-items: center;
             overflow: visible;
 }
+            .st-emotion-cache-13ln4jf {
+    width: 100%;
+    padding: 6rem 1rem 10rem;
+    max-width: 111rem;
+}
     </style>
     """, unsafe_allow_html=True)
 
