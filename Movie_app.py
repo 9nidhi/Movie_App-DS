@@ -250,13 +250,14 @@ else:
         background_color = "red"
         padding = "5px"
         border_radius = "5px"
+        
         margin_bottom="12px"
       
 
 
         col.markdown(
-        f"<div style='font-size: 15px; margin-bottom:12px; background-color: red; padding: 5px; border-radius: 5px; text-align: center;'>{movie['title']}</div>",
-        unsafe_allow_html=True      
+        f"<div style='font-size: 16.2px; margin-bottom:12px; background-color: red; color: white; padding: 5px; border-radius: 5px; text-align: center;'>{movie['title']}</div>",
+    unsafe_allow_html=True      
     )
 
 
